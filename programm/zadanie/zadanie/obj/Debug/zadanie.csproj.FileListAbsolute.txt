@@ -1,0 +1,10 @@
+C:\Users\krylo\Downloads\Производственная практика\programm\zadanie\zadanie\bin\Debug\zadanie.exe.config
+C:\Users\krylo\Downloads\Производственная практика\programm\zadanie\zadanie\bin\Debug\zadanie.exe
+C:\Users\krylo\Downloads\Производственная практика\programm\zadanie\zadanie\bin\Debug\zadanie.pdb
+C:\Users\krylo\Downloads\Производственная практика\programm\zadanie\zadanie\obj\Debug\zadanie.csprojAssemblyReference.cache
+C:\Users\krylo\Downloads\Производственная практика\programm\zadanie\zadanie\obj\Debug\zadanie.Form1.resources
+C:\Users\krylo\Downloads\Производственная практика\programm\zadanie\zadanie\obj\Debug\zadanie.Properties.Resources.resources
+C:\Users\krylo\Downloads\Производственная практика\programm\zadanie\zadanie\obj\Debug\zadanie.csproj.GenerateResource.cache
+C:\Users\krylo\Downloads\Производственная практика\programm\zadanie\zadanie\obj\Debug\zadanie.csproj.CoreCompileInputs.cache
+C:\Users\krylo\Downloads\Производственная практика\programm\zadanie\zadanie\obj\Debug\zadanie.exe
+C:\Users\krylo\Downloads\Производственная практика\programm\zadanie\zadanie\obj\Debug\zadanie.pdb
